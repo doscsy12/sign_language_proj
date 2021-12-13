@@ -5,4 +5,5 @@ The purpose of this project is to build a sign language classifier that translat
 | notebooks              | description                               |
 |------------------------|-------------------------------------------|
 | collect_data           | Collect data from webcam                  |
-| label_split            | Label data, split into train/test         |
+| build_model            | Build model                               |
+
